@@ -1,0 +1,15 @@
+body{
+    background-color: #EDECE9;
+    color: #799496;
+}
+.container{
+    border: 1px;
+    height: 80vmin;
+    width: 200vmin;
+    justify-content: center;
+    margin-top: 7vmin;
+    margin-bottom: 7vmin;
+    background-color: #9FA4A8;
+    
+}
+
